@@ -80,6 +80,9 @@ React, Vite, Tailwind CSS, React Router, Recharts, React Toastify etc.
 ## 👨‍💻 ডেভেলপার
 **Sharif**  
 CST Student  
-[GitHub Profile](https://github.com/mdsharifkhandakar)
+[GitHub Profile](https://github.com/mdsharifkhandakar) ,
+<br>
+[Netlify Live Preview](https://sharif-hero-apps.netlify.app/)
+
 
 
