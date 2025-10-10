@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '/logo.png';
+import logo from '../../assets/logo.png';
 import { Link } from 'react-router-dom';
 import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 
@@ -37,22 +37,12 @@ const Footer = () => {
               </li>
               <li>
                 <a href="#about" className="hover:text-[#713fe7]">
-                  About
+                  Apps
                 </a>
               </li>
               <li>
                 <a href="#skills" className="hover:text-[#713fe7]">
-                  Skills
-                </a>
-              </li>
-              <li>
-                <a href="#projects" className="hover:text-[#713fe7]">
-                  Projects
-                </a>
-              </li>
-              <li>
-                <a href="#contact" className="hover:text-[#713fe7]">
-                  Contact
+                  Installation
                 </a>
               </li>
             </ul>
