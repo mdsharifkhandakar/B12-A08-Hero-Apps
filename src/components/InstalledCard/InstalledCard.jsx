@@ -11,7 +11,7 @@ const InstalledCard = ({ app, handleUninstallData }) => {
           <img className="w-16 rounded-xl" src={image} alt="" />
         </div>
         <div>
-          <h2 className="font-semibold text-xl mb-3">{title}</h2>
+          <h2 className="font-semibold text-xl mb-3 text-black">{title}</h2>
           <div className="flex gap-4 items-center">
             <span className="flex text-[#00D390] font-medium">
               <MdOutlineFileDownload size={20} /> {downloads}
