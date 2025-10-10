@@ -1,0 +1,363 @@
+[
+  {
+    "image": "https://img.icons8.com/color/480/facebook-new.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 1,
+    "description": "Facebook is one of the world’s largest social networking apps that connects billions of users globally. It allows users to share updates, photos, and stories with friends and family, follow pages of interest, and join groups to interact with people who share similar passions. The app also supports live streaming, marketplace buying and selling, and event creation. Businesses use Facebook to reach audiences through pages, ads, and insights. With its intuitive design, privacy settings, and messaging integration, Facebook continues to be a central hub for both personal and professional communication.",
+    "size": 120,
+    "reviews": "120M",
+    "ratingAvg": 4.1,
+    "downloads": "7B",
+    "ratings": [
+      { "name": "1 star", "count": 4000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 18000000 },
+      { "name": "5 star", "count": 48000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/instagram-new--v1.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 2,
+    "description": "Instagram is a visual-based social media platform focused on sharing photos and short videos. It allows users to express creativity, connect with friends, and follow favorite celebrities and brands. The app includes features like Stories, Reels, and direct messaging, offering both entertainment and communication in one place. Businesses and influencers use Instagram to reach audiences through engaging visuals, sponsored posts, and analytics. With its modern interface and algorithm-driven feed, Instagram remains one of the most influential apps shaping online culture and trends worldwide.",
+    "size": 95,
+    "reviews": "95M",
+    "ratingAvg": 4.3,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1800000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 15000000 },
+      { "name": "5 star", "count": 38000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/youtube-play.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": "YouTube is the leading video-sharing platform that lets users watch, upload, and share videos on any topic imaginable. From music and tutorials to documentaries and live streams, it offers endless entertainment and educational content. Creators can monetize their channels and interact with subscribers through comments and live chats. The app’s recommendation system curates personalized videos based on user interests. YouTube has become a daily destination for billions, serving as a hub for creators, learners, and businesses across the world.",
+    "size": 150,
+    "reviews": "210M",
+    "ratingAvg": 4.2,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": 7000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 10000000 },
+      { "name": "4 star", "count": 23000000 },
+      { "name": "5 star", "count": 52000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/whatsapp--v1.png",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 4,
+    "description": "WhatsApp Messenger is a simple, secure, and reliable messaging app that lets users send texts, photos, videos, and voice messages across the globe. It supports group chats, voice and video calls, and document sharing, all protected with end-to-end encryption. The app is widely used for both personal and business communication through WhatsApp Business. With a lightweight design and low data usage, it runs smoothly on all devices, even with weak connections. Its privacy-first design and smooth interface make it a must-have for global communication.",
+    "size": 85,
+    "reviews": "175M",
+    "ratingAvg": 4.4,
+    "downloads": "7B",
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 14000000 },
+      { "name": "5 star", "count": 50000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/tiktok--v1.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 5,
+    "description": "TikTok is a short-video platform where users create and discover engaging, entertaining, and creative content. It empowers users to showcase talent through dance, comedy, challenges, and trends. The app’s advanced AI tailors a personalized feed based on user interactions, keeping engagement high. TikTok’s editing tools, effects, and music library make video creation fun and simple. It has become a global stage for influencers, brands, and individuals to gain visibility, transforming digital entertainment and culture worldwide.",
+    "size": 110,
+    "reviews": "145M",
+    "ratingAvg": 4.1,
+    "downloads": "4B",
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 9000000 },
+      { "name": "4 star", "count": 16000000 },
+      { "name": "5 star", "count": 36000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KxeSAjPTKliCErbivNiXrd6cTwfbqUJcbSRPe_IBVK_YmwckfMRS1VIHz-5cgT09yMo=w240-h480-rw",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 6,
+    "description": "Snapchat is a multimedia messaging app designed for fast and fun communication. It allows users to send photos and videos that disappear after being viewed. With features like Stories, Spotlight, and Snap Map, it encourages real-time sharing and exploration. The app includes AR filters, Bitmoji, and chat tools to make conversations more expressive. Snapchat’s focus on privacy and temporary content makes it popular among younger audiences who value spontaneous interaction and creativity.",
+    "size": 90,
+    "reviews": "72M",
+    "ratingAvg": 4.0,
+    "downloads": "2B",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1400000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 18000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/480/telegram-app--v1.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 7,
+    "description": "Telegram is a fast, cloud-based messaging app that focuses on speed, security, and privacy. It supports large group chats, file sharing, bots, and channels for public broadcasting. Telegram users can access their chats from multiple devices without losing data. The app also includes secret chats with self-destruct timers and end-to-end encryption. Its open API and bot platform make it a popular choice for developers and tech enthusiasts. With no ads and unlimited storage, Telegram continues to grow as a reliable communication platform.",
+    "size": 100,
+    "reviews": "68M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 19000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/linkedin.png",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "id": 8,
+    "description": "LinkedIn is a professional networking platform designed to connect job seekers, professionals, and companies. It enables users to create resumes, showcase skills, and apply for jobs. Businesses use LinkedIn for recruitment, marketing, and thought leadership. The app provides career insights, online courses, and industry updates to help users grow professionally. With its focus on building meaningful career connections, LinkedIn serves as a hub for professional growth and collaboration worldwide.",
+    "size": 75,
+    "reviews": "45M",
+    "ratingAvg": 4.2,
+    "downloads": "1.5B",
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 15000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/3d-sugary/200/spotify.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": "Spotify is a music streaming app that offers millions of songs, podcasts, and playlists from around the world. Users can discover new artists, create custom playlists, and share tracks with friends. The app provides both free and premium tiers, offering offline listening and ad-free experiences. Spotify’s recommendation engine suggests music tailored to individual tastes. With a sleek interface and high-quality audio streaming, it has redefined how people enjoy music digitally.",
+    "size": 130,
+    "reviews": "98M",
+    "ratingAvg": 4.4,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/ios-filled/150/twitter-squared.png",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 10,
+    "description": "Twitter, now known as X, is a microblogging platform that lets users share short posts, photos, and videos. It’s a hub for news, discussions, and trends in real time. Users follow accounts, engage with tweets, and participate in global conversations. The app supports spaces for live audio discussions and communities for shared interests. Businesses and influencers use X for brand engagement, marketing, and networking. With its fast updates and open communication style, it remains one of the most influential social platforms worldwide.",
+    "size": 105,
+    "reviews": "82M",
+    "ratingAvg": 4.0,
+    "downloads": "2B",
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 6000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/forma-light-filled/96/pinterest.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "id": 11,
+    "description": "Pinterest is a discovery and inspiration app where users can explore ideas for fashion, food, home décor, art, and more. It allows users to save and organize images (pins) into boards, making it easy to plan and collect inspiration. The app’s algorithm tailors content based on user preferences, helping them find creative solutions and trends. Pinterest also supports shopping features, allowing users to buy products directly from pins. It’s a favorite platform for planners, designers, and creative minds around the globe.",
+    "size": 85,
+    "reviews": "56M",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/3d-fluency/375/netflix-logo.png",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 12,
+    "description": "Netflix is a global streaming service that offers a wide range of movies, TV shows, documentaries, and original productions. Users can watch content anytime, anywhere, with personalized recommendations based on viewing history. The app supports multiple profiles, offline downloads, and subtitles in various languages. Its vast library includes everything from international films to exclusive Netflix Originals. With smooth streaming and high-quality playback, Netflix continues to lead the online entertainment industry worldwide.",
+    "size": 200,
+    "reviews": "135M",
+    "ratingAvg": 4.5,
+    "downloads": "1.5B",
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 25000000 }
+    ]
+  },
+
+  {
+    "image": "https://play-lh.googleusercontent.com/NaFAbO7ExS4NRAvt2GYkNY6OQf9oVXwmdMTZzA6zrgjjSxhQuTCnjHyf7TgYcoSGqQ=w240-h480-rw",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 13,
+    "description": "Reddit is a social news aggregation, web content rating, and discussion website. Registered members can submit content such as links, text posts, and images, which are then voted up or down by other members. It organizes content into user-created boards called 'subreddits', covering almost every topic imaginable. Reddit encourages discussion, debate, and sharing of knowledge across communities. It also features live events, AMAs (Ask Me Anything), and trending threads, making it a dynamic platform for discovering ideas and engaging in global conversations.",
+    "size": 95,
+    "reviews": "48M",
+    "ratingAvg": 4.3,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/ios-filled/150/zoom.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 14,
+    "description": "Zoom is a leading video conferencing app that connects people through high-quality audio and video calls. It allows hosting virtual meetings, webinars, and conference calls with features like screen sharing, recording, breakout rooms, and virtual backgrounds. Zoom supports collaboration for businesses, educational institutions, and personal use, enabling teams to stay connected remotely. With a simple interface, cross-device support, and robust security, Zoom has become an essential tool for communication and online collaboration worldwide.",
+    "size": 120,
+    "reviews": "65M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/duolingo-logo.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "id": 15,
+    "description": "Duolingo is a language learning platform that makes learning fun and interactive. Users can learn multiple languages using gamified lessons, quizzes, and exercises designed for all skill levels. The app tracks progress, provides daily goals, and offers bite-sized lessons to fit into busy schedules. Duolingo includes speaking, listening, reading, and writing exercises to improve comprehensive language skills. With its engaging approach, Duolingo has become one of the most popular apps for learners worldwide looking to learn new languages efficiently.",
+    "size": 85,
+    "reviews": "55M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tUZNUbnNGw8I6uLg8Zy2ZWbmSFuT5kK0dYA8tdqNmldlozNS_jSjDw5j2nElRsoTzQ=w240-h480-rw",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 16,
+    "description": "Canva is a graphic design platform that allows users to create stunning visuals, presentations, social media posts, and more. It offers thousands of templates, fonts, stock images, and illustrations, making design accessible to beginners and professionals alike. Canva supports collaboration, allowing teams to work together on projects in real-time. Its drag-and-drop interface simplifies complex design tasks, and it also provides tools for printing, video editing, and brand management. Canva has revolutionized the way individuals and businesses produce creative content.",
+    "size": 140,
+    "reviews": "38M",
+    "ratingAvg": 4.6,
+    "downloads": "200M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/discord-logo.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 17,
+    "description": "Discord is a communication app designed for creating communities. Users can chat via text, voice, or video, and organize servers for gaming, study groups, work, or hobbies. The platform supports channels, direct messaging, roles, and moderation tools to manage communities effectively. Discord integrates bots and APIs for customization, music streaming, and automated tasks. Its low-latency voice chat, screen sharing, and cross-platform availability make it popular among gamers, content creators, and online communities seeking reliable group communication.",
+    "size": 110,
+    "reviews": "48M",
+    "ratingAvg": 4.6,
+    "downloads": "300M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 10000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/slack-new.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 18,
+    "description": "Slack is a team collaboration app that brings messaging, file sharing, and workflow tools into one platform. Teams can communicate in channels, groups, or direct messages, making coordination simple and efficient. Slack integrates with hundreds of other apps like Google Drive, Trello, and Zoom, enhancing productivity. Notifications, search, and threaded conversations help keep work organized. Its desktop, web, and mobile apps allow users to stay connected from anywhere. Slack is widely used by businesses to streamline communication and collaboration.",
+    "size": 120,
+    "reviews": "35M",
+    "ratingAvg": 4.4,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 8000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/240/trello.png",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 19,
+    "description": "Trello is a project management app that organizes tasks and projects into boards, lists, and cards. Users can assign tasks, add deadlines, attach files, and track progress visually. It is ideal for teams, freelancers, and personal productivity. Trello supports collaboration through comments, checklists, and integrations with apps like Slack and Google Drive. Its flexible layout allows users to adapt boards for software development, marketing campaigns, or personal goals. Trello’s simplicity and visual approach make task management more effective and engaging.",
+    "size": 90,
+    "reviews": "28M",
+    "ratingAvg": 4.5,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 6000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/ios-filled/150/notion.png",
+    "title": "Notion",
+    "companyName": "Notion Corporation",
+    "id": 20,
+    "description": "Notion is a note-taking and organization app that allows users to capture ideas, to-do lists, and important documents in one place. It supports text, images, audio, and attachments, which can be organized into notebooks and tagged for easy retrieval. Notion provides syncing across devices, offline access, and collaboration features for teams. Its search functionality helps users find notes quickly, while reminders and templates make planning easier. Notion is used by students, professionals, and creatives to stay organized and productive.",
+    "size": 80,
+    "reviews": "22M",
+    "ratingAvg": 4.3,
+    "downloads": "150M",
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  }
+]
