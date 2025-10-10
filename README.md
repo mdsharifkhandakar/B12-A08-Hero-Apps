@@ -1,16 +1,85 @@
-# React + Vite
+# 🚀 Hero Apps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+একটি React ভিত্তিক App Store প্রজেক্ট যেখানে ব্যবহারকারী অ্যাপ দেখতে, সার্চ করতে, ইনস্টল ও আনইনস্টল করতে পারে।
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 মূল ফিচার
+- **Header:** লোগো, ন্যাভিগেশন (Home, Apps, Installation), GitHub লিংকসহ Contribution বাটন  
+- **Footer:** কাস্টম ডিজাইন  
+- **Data:** 12–20 অ্যাপের JSON ডেটা (image, title, companyName, size, reviews, rating, downloads ইত্যাদি)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 JSON Demo (উদাহরণ)
+```json
+[
+  {
+    "id": 1,
+    "image": "",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "Watch, stream, and share videos worldwide.",
+    "size": 45,
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads": "10B+",
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 800000 }
+    ]
+  }
+]
 
-## Expanding the ESLint configuration
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏠 হোম পেজ
+- ব্যানারে টাইটেল, টেক্সট, ও দুটি বাটন (App Store / Play Store)  
+- তিনটি স্টেট কার্ড  
+- টপ ৮টি অ্যাপ (৪ কলাম) ও “Show All” বাটন  
+
+---
+
+## 📱 All Apps পেজ
+- সার্চ বক্সসহ সব অ্যাপ দেখা যায়  
+- লাইভ সার্চ (case-insensitive)  
+- “No App Found” মেসেজ দেখায় যদি কিছু না মেলে  
+
+---
+
+## 📊 অ্যাপ ডিটেইলস পেজ
+- অ্যাপ ইমেজ, টাইটেল, রেটিং, রিভিউ, ডাউনলোড কাউন্ট  
+- “Install” বাটন → ক্লিক করলে “Installed” হয়ে যায়  
+- ইনস্টল হলে Toast মেসেজ দেখায়  
+- Recharts দিয়ে রিভিউ চার্ট  
+
+---
+
+## 💾 My Installation
+- লোকালস্টোরেজে ইনস্টল হওয়া অ্যাপ সেভ থাকে  
+- “Uninstall” করলে অ্যাপ মুছে যায় ও Toast দেখায়  
+- ডাউনলোড অনুযায়ী Sort (High-Low / Low-High)  
+
+---
+
+## ⚙️ অন্যান্য
+- কাস্টম এরর পেজ  
+- লোডিং অ্যানিমেশন (নেভিগেশন ও সার্চের সময়)  
+- রিলোডেও কোনো রাউট এরর হয় না  
+
+---
+
+## 🧰 ব্যবহার করা টেকনোলজি
+React, Vite, Tailwind CSS, React Router, Recharts, React Toastify etc.
+
+---
+
+## 👨‍💻 ডেভেলপার
+**Sharif**  
+CST Student  
+[GitHub Profile](https://github.com/mdsharifkhandakar)
+
+
