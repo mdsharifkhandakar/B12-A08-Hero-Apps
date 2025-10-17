@@ -31,19 +31,19 @@ const Footer = () => {
             <h3 className="text-white text-lg mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#home" className="hover:text-[#713fe7]">
+                <Link to="/" className="hover:text-[#713fe7]">
                   Home
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#about" className="hover:text-[#713fe7]">
+                <Link to="/apps" className="hover:text-[#713fe7]">
                   Apps
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#skills" className="hover:text-[#713fe7]">
+                <Link to="/installation" className="hover:text-[#713fe7]">
                   Installation
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
