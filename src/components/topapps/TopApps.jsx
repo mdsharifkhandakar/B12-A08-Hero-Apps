@@ -27,7 +27,7 @@ const TopApps = () => {
       {loading ? (
         <SkeletonLoading count={8}></SkeletonLoading>
       ) : (
-        <div className=" grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        <div className=" grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-4">
           {topApps.map(app => (
             <AppsCard key={app.id} app={app}></AppsCard>
           ))}

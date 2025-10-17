@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { loadInstalledData, removeInstalledData } from "../Utils/LocalStorege";
-import InstalledCard from "../components/installedcard/installedcard";
+import InstalledCard from "../components/InstalledCard/InstalledCard";
 import { Bounce, toast, ToastContainer } from "react-toastify";
 
 const Installation = () => {

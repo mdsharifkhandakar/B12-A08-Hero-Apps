@@ -5,12 +5,12 @@ import { MdOutlineFileDownload } from 'react-icons/md';
 const InstalledCard = ({ app, handleUninstallData }) => {
   const { image, title, size, ratingAvg, downloads } = app;
   return (
-    <div className="rounded-lg bg-white shadow flex justify-between items-center p-4">
-      <div className="flex items-center gap-4  ">
+    <div className="rounded-lg bg-white shadow flex flex-col sm:flex-row justify-between items-center p-4 gap-4">
+      <div className="flex items-center gap-4 w-full sm:w-auto">
         <div>
           <img className="w-16 rounded-xl" src={image} alt="" />
         </div>
-        <div>
+        <div className="flex-1">
           <h2 className="font-semibold text-xl mb-3 text-black">{title}</h2>
           <div className="flex gap-4 items-center">
             <span className="flex text-[#00D390] font-medium">
@@ -24,10 +24,10 @@ const InstalledCard = ({ app, handleUninstallData }) => {
           </div>
         </div>
       </div>
-      <div>
+      <div className="w-full sm:w-auto flex justify-center sm:justify-end">
         <button
           onClick={() => handleUninstallData(app)}
-          className="btn bg-[#00D390] text-white"
+          className="btn bg-[#00D390] text-white w-full sm:w-auto"
         >
           Uninstall
         </button>
