@@ -103,7 +103,7 @@ const AppDetails = () => {
           <button
             disabled={isInstalled || installing}
             onClick={() => handleInstallBtn(title)}
-            className={`w-1/5 mt-4 bg-[#00D390] text-white text-left  font-semibold text-lg p-4 py-3 pz-5 rounded-lg hover:opacity-90 transition-opacity disabled:bg-[#00d390b0] disabled:cursor-not-allowed flex items-center justify-center`}
+            className={`w-full md:w-1/5 mt-4 bg-[#00D390] text-white text-left  font-semibold text-lg p-4 py-3 pz-5 rounded-lg hover:opacity-90 transition-opacity disabled:bg-[#00d390b0] disabled:cursor-not-allowed flex items-center justify-center`}
           >
             {installing ? (
               <MoonLoader size={20} color="white" />
